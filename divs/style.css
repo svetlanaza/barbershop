@@ -1,0 +1,16 @@
+.main-container {
+    border: 1px solid black;
+}
+
+.inside-container-1 {
+    border: 1px solid black;
+    background-color: red;
+    margin: 10px;
+}
+
+.inside-container-2 {
+    border: 1px solid black;
+    background-color: blue;
+    margin: 30px;
+    padding: 15px;
+}
